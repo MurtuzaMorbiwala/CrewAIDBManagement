@@ -3,7 +3,7 @@ import datetime
 import os
 import random
 # Define database name and table names
-DATABASE_NAME_BASE = "sales_data"
+DATABASE_NAME_BASE = "sources"
 DATABASE_EXTENSION = ".db"
 PRODUCT_TABLE = "products"
 CUSTOMER_TABLE = "customers"
